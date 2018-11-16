@@ -1,0 +1,9 @@
+delete from estudantetrabalha;
+delete from trabalhaprojecto;
+delete from projecto;
+delete from estudante;
+delete from especialidade;
+delete from trabalhadepartamento;
+delete from curso;
+delete from departamento;
+delete from professor;
